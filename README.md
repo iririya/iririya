@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iriya-kom
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working in Android Development
 - 📫 How to reach me iriya.kom@gmail.com
 
 <!---
