@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @iriya-kom
+- 👋 Hi, I’m Irriya
 - 👀 I’m interested in mobile development.
 - 🌱 I’m currently developing mobile apps with Flutter
